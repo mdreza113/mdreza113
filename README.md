@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdreza113
-- 👀 I’m interested in CSE@UIU
+- 👀 I’m interested in 
 - 🌱 I’m currently learning C Programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
